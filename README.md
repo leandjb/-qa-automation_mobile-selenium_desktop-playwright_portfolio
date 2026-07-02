@@ -1,4 +1,4 @@
-# QA Automation Portfolio
+# QA Automation mobile-selenium & desktop-playwright Portfolio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="Python">
